@@ -1,2 +1,2 @@
 # NLP-Playground
-Going over fundamental NLP concepts and architecture   
+Experimenting with fundamental NLP concepts   
